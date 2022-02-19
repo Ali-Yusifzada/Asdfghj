@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+body .c1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .c1 .d1 {
+  width: 400px;
+  background-color: #00005c !important;
+  padding-left: 140px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+body .c1 .d1 h3 {
+  margin-top: 15px;
+  color: white;
+  font-weight: 800;
+}
+
+body .c1 .d1 #ad svg {
+  width: 20px;
+  height: 20px;
+  fill: white !important;
+  cursor: pointer;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+body .c1 .d1 #ad svg:hover {
+  width: 20px;
+  height: 20px;
+  fill: black !important;
+  cursor: pointer;
+}
+
+body .c1 .d1 .sp6 {
+  color: white;
+  cursor: pointer;
+}
+
+body .c1 .d2 {
+  background-color: #dddddd !important;
+  margin-left: 12px;
+  padding-left: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 70px;
+}
+
+body .c1 .d2 .span1 {
+  margin-top: -40px;
+}
+
+body .c1 .d2 .p1 {
+  margin-top: 35px;
+}
+
+body .c1 .d2 .div66 {
+  margin-top: 20px;
+}
+
+body .c1 .d3 {
+  width: 130px !important;
+  height: 130px !important;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+body .c1 .d3 img {
+  width: 130px;
+  height: 130px;
+}
+/*# sourceMappingURL=style.css.map */
